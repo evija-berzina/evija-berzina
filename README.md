@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Evija 👋
 
-<!--
-**evija-berzina/evija-berzina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Frontend Developer** currently learning frontend fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am learning frontend development by practicing HTML, CSS and JavaScript through Frontend Mentor challenges and small personal projects.
+
+---
+
+## Tech Stack
+
+- **HTML**  
+- **CSS** 
+- **JavaScript**   
+- **Git & GitHub**   
+
+---
+
+## What I'm Learning Right Now
+
+- writing semantic HTML
+- learning accessibility basics (ARIA, keyboard navigation)
+- building responsive layouts using a mobile-first approach
+- writing cleaner and more organized CSS
+- better project structure for larger projects
+- JavaScript logic and basic problem-solving 
+
+---
+
+## Goals
+
+My goal is to start my career as a **Junior Frontend Developer**, where I can continue learning, gain real experience and grow as a developer.
+
+---
+
+## Contact
+
+- 📧 Email: **berzina3633@gmail.com**  
+- 🌐 Portfolio: *In progress*
