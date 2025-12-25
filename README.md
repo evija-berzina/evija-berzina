@@ -1,42 +1,12 @@
-# Hi, I'm Evija 👋
+# 💫 About Me:
+Hi, I'm Evija 👋<br><br>I’m a Junior Frontend Developer currently learning frontend fundamentals by building projects with HTML, CSS, and JavaScript. I mainly practice through Frontend Mentor challenges and small personal projects.<br><br>What I’m focusing on:<br>- writing semantic HTML<br>- learning accessibility basics (ARIA, keyboard navigation)<br>- building responsive layouts using a mobile-first approach<br>- writing cleaner and more organized CSS<br>- better project structure for larger projects<br>- JavaScript logic and basic problem-solving <br><br>My goal is to start my career as a Junior Frontend Developer, where I can continue learning, gain real experience and grow as a developer.<br><br>- 📧 Email: berzina3633@gmail.com<br>- 🌐 Portfolio: *In progress*
 
-I am a **Junior Frontend Developer** currently learning frontend fundamentals.
 
----
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=evija-berzina&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=evija-berzina&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evija-berzina&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me
-
-I am learning frontend development by practicing HTML, CSS and JavaScript through Frontend Mentor challenges and small personal projects.
-
----
-
-## Tech Stack
-
-- **HTML**  
-- **CSS** 
-- **JavaScript**   
-- **Git & GitHub**   
-
----
-
-## What I'm Learning Right Now
-
-- writing semantic HTML
-- learning accessibility basics (ARIA, keyboard navigation)
-- building responsive layouts using a mobile-first approach
-- writing cleaner and more organized CSS
-- better project structure for larger projects
-- JavaScript logic and basic problem-solving 
-
----
-
-## Goals
-
-My goal is to start my career as a **Junior Frontend Developer**, where I can continue learning, gain real experience and grow as a developer.
-
----
-
-## Contact
-
-- 📧 Email: **berzina3633@gmail.com**  
-- 🌐 Portfolio: *In progress*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
