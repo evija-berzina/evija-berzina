@@ -1,4 +1,6 @@
-![] (assets/structure-style-fun.png)
+<p align="center">
+  <img src="assets/structure-style-fun.png" width="600">
+</p>
 
 # Hey, I'm Evija 👋
 
