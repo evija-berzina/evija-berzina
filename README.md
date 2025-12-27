@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/structure-style-fun.png" width="600">
+  <img src="assets/structure-style-fun.png" width="100%">
 </p>
 
 # Hey, I'm Evija 👋
