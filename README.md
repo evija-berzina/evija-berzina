@@ -4,7 +4,7 @@
 
 # Hey, I'm Evija 👋
 
-I’m a junior developer currently learning frontend fundamentals by building projects with HTML, CSS, JavaScript and React. I mainly practice through Frontend Mentor challenges and small personal projects.<br><br>🤓 What I’m focusing on:<br>• writing semantic HTML<br>• building responsive layouts using a mobile-first approach<br>• writing cleaner and more organized CSS<br>• better project structure for larger projects<br>• JavaScript logic and basic problem-solving<br>• Understanding React fundamentals <br><br>My goal is to start my career as a Junior Frontend Developer, where I can continue learning, gain real experience and grow as a developer.<br><br>📧 Email: berzina3633@gmail.com<br>🌐 Portfolio: *In progress*
+I’m a junior developer currently learning frontend fundamentals by building projects with HTML, CSS, JavaScript and React. I mainly practice through Frontend Mentor challenges and small personal projects.<br><br>🤓 What I’m focusing on:<br>• writing semantic HTML<br>• building responsive layouts using a mobile-first approach<br>• writing cleaner and more organized CSS<br>• better project structure for larger projects<br>• JavaScript logic and basic problem-solving<br>• Understanding React fundamentals <br><br>My goal is to start my career as a Junior Frontend Developer, where I can continue learning, gain real experience and grow as a developer.<br><br>📧 Email: berzina3633@gmail.com<br>🌐 Portfolio: *In progress* ✨️
 
 
 # 💻 Tech Stack:
